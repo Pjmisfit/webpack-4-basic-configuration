@@ -1,0 +1,7 @@
+#app {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+      justify-content: center;
+  background: #f98a09; }
+
