@@ -1,1 +1,1 @@
-"# Basic configuration for webpack 4" 
+# Basic configuration for webpack 4
